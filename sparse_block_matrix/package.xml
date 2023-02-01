@@ -22,4 +22,7 @@
   <run_depend>eigen_catkin</run_depend>
 
   <test_depend>gtest</test_depend>
+
+  <build_depend>suitesparse</build_depend>
+  <run_depend>suitesparse</run_depend>
 </package>
